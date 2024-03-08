@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gray&height=300&section=header&fontSize=90)
 
 
 <!--내용 부분-->
@@ -65,5 +65,3 @@
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?imyoumin=anuraghazra&show_icons=true&theme=radical)
