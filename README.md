@@ -64,7 +64,7 @@
   </a>
 
   <a href="https://www.youtube.com/channel/UCFSshsU5pofrXpHfArSdHZg">
-    <img src="https://img.shields.io/badge/Youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   
 </div>
