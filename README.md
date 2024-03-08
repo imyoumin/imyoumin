@@ -54,13 +54,19 @@
 <div align="center">
 
 
-  <a href="[https://www.notion.so/3e135e4260634629a9d01cf2834ab3ef?pvs=4]">
-      <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp 
+  <a href="https://www.notion.so/3e135e4260634629a9d01cf2834ab3ef?pvs=4">
+    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   </a>
+
   <a href="mailto:holyboy7553@cau.ac.kr">
     <img
       src="https://img.shields.io/badge/holyboy7553@cau.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+
+  <a href="https://www.youtube.com/channel/UCFSshsU5pofrXpHfArSdHZg">
+    <img src="https://img.shields.io/badge/Youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />&nbsp
+  </a>
+  
 </div>
 
 <br>
