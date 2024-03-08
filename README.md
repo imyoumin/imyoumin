@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=wave&color=gray&height=300&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gray&height=300&section=header&text=極番&fontSize=90)
 
 
 <!--내용 부분-->
