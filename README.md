@@ -1,7 +1,3 @@
-<!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=white&height=300&section=header&text=極番&fontSize=50)
-
-
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
