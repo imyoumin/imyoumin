@@ -65,7 +65,6 @@
 <br>
 <div align="center">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imyoumin&show_icons=true&theme=dark)
-
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imyoumin&layout=compact&theme=dark)
 </div>
 
