@@ -75,6 +75,9 @@
 </p>
 <br>
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sskeleton130)](https://solved.ac/sskeleton130/)
+<p align="center">
+  <a href="https://solved.ac/sskeleton130/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sskeleton130" />
+  </a>
+</p>
 
