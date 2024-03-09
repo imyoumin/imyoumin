@@ -74,7 +74,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=imyoumin&show_icons=true&theme=dark" />
 </p>
 <br>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imyoumin&layout=compact&theme=dark)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyoumin&layout=compact&theme=dark" />
 </p>
