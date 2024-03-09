@@ -70,16 +70,20 @@
 </div>
 
 <br>
+
+<h3 align="center">:shipit: GitHub stats :shipit:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imyoumin&show_icons=true&theme=dark" />
 </p>
 
 <br>
+<h3 align="center">:books: Most used language :books:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyoumin&layout=demo&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyoumin&layout=compact&theme=dark" />
 </p>
 <br>
 
+<h3 align="center"> :bug: Baekjoon solved rank  :bug:</h3>
 <p align="center">
   <a href="https://solved.ac/sskeleton130/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sskeleton130" />
